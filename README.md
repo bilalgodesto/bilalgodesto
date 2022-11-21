@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilalrabbi
 - 👀 I’m interested in flutter, react, next, vue and laravel
-- 🌱 I’m currently learning nest.js
+- 🌱 I’m currently working with flutter and node.js
 - 💞️ I’m looking to collaborate on
 - 📫 Reach me at bilalrabbi@gmail.com
 
